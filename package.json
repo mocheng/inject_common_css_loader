@@ -1,0 +1,27 @@
+{
+  "name": "inject_common_css_loader",
+  "version": "0.0.1",
+  "description": "webpack loader to inject scss",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mocheng/inject_common_css_loader.git"
+  },
+  "keywords": [
+    "scss",
+    "webpack",
+    "loader"
+  ],
+  "author": "Morgan Cheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mocheng/inject_common_css_loader/issues"
+  },
+  "homepage": "https://github.com/mocheng/inject_common_css_loader#readme",
+  "dependencies": {
+    "loader-utils": "^0.2.15"
+  }
+}
